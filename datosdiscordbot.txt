@@ -1,4 +1,0 @@
-1429586375845351585 app id
-8abe15b8f9d44b1be76f9a56ae56da8c0f7049539a4b94c436182710b30dc559 public key
-MTQyOTU4NjM3NTg0NTM1MTU4NQ.GarSDK.XNxpGX2fTc32q4HmvS05DcRiWLToy-o1m4Jm2g token
-https://discord.com/oauth2/authorize?client_id=1429586375845351585&permissions=2048&integration_type=0&scope=bot generated url
